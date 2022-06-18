@@ -1,1 +1,1 @@
-# FirstGame
+# FirstGame: Python pygame 
